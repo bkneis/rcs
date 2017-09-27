@@ -1,0 +1,447 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/middleware/checkLicence.js" timestamp="1501945326518">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+        <mark key="^" line="11" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/middleware/file-uploader.js" timestamp="1500216165575">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/package.json" timestamp="1501570753980">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/ecosystem.config.js" timestamp="1500997136480">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/middleware/apiToken.js" timestamp="1501946495617">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/sass/typography.scss" timestamp="1500274123992">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/data/detectors.js" timestamp="1502172528884">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/state/reducers/analysisInfo.js" timestamp="1500988111827">
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="64" />
+        <mark key="." line="6" column="64" />
+        <mark key="^" line="6" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/middleware/auth.js" timestamp="1501945417349">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/main.jsx" timestamp="1500996599651">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/middleware/jwt-verify.js" timestamp="1501946721202">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/migrations/20170402-add-user.js" timestamp="1501829967051">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/sass/main.scss" timestamp="1500199426656">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/sass/main.sass" timestamp="1500013298051">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/middleware/validateLicence.js" timestamp="1501946452644">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/config/default.json" timestamp="1501657173261">
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/sass/components/app-uploader.scss" timestamp="1500274309005">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="15" column="9" />
+        <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/file_routes.js" timestamp="1500216379415">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/readme.md" timestamp="1500320197322">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="46" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/sass/scaffolding.scss" timestamp="1500272333521">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501947673921">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/middleware/licenceVerify.js" timestamp="1501945164552">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/state/actions/analysisInfo.js" timestamp="1500988089798">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="42" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/models/user.js" timestamp="1501829364502">
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="45" column="27" />
+        <mark key="^" line="45" column="27" />
+        <mark key="." line="45" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/sass/pages/results.scss" timestamp="1500530718904">
+        <mark key="[" line="57" column="13" />
+        <mark key="]" line="57" column="12" />
+        <mark key="." line="57" column="12" />
+        <mark key="^" line="57" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/stack/docker-compose.yml" timestamp="1501657229956">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/web-router.js" timestamp="1501945759687">
+        <mark key="[" line="169" column="35" />
+        <mark key="]" line="169" column="39" />
+        <mark key="^" line="169" column="39" />
+        <mark key="." line="169" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/stack/Dockerfile-app-server" timestamp="1501569301693">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/services/Api.js" timestamp="1500985836184">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/state/reducers/user-info.js" timestamp="1500987928910">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/menu.jsx" timestamp="1500993784831">
+        <mark key="[" line="33" column="67" />
+        <mark key="]" line="33" column="73" />
+        <mark key="^" line="33" column="73" />
+        <mark key="." line="33" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/worker/app.js" timestamp="1500317501323">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/index.js" timestamp="1501830107857">
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="9" column="66" />
+        <mark key="." line="9" column="66" />
+        <mark key="^" line="9" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/state/reducers/index.js" timestamp="1500988210035">
+        <mark key="[" line="1" column="39" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/analyses_routes.js" timestamp="1501946307960">
+        <mark key="[" line="45" column="18" />
+        <mark key="]" line="10" column="66" />
+        <mark key="." line="10" column="66" />
+        <mark key="^" line="10" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/.eslintrc" timestamp="1501945660340">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/Dockerfile" timestamp="1501656951552">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/content.js" timestamp="1502172464115">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="115" column="4" />
+        <mark key="^" line="114" column="187" />
+        <mark key="." line="114" column="187" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/PrivateRoute.jsx" timestamp="1500316512102">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/BugsBunny.js" timestamp="1500999959879">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/docker-compose.yml" timestamp="1501569964618">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/yarn.lock" timestamp="1501967865342">
+        <mark key="'" line="1795" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/.eslintignore" timestamp="1500983626054">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/BugsBunny_new.js" timestamp="1500969236693">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/mockAnalyser/index.js" timestamp="1500979921195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="78" />
+        <mark key="." line="1" column="78" />
+        <mark key="^" line="1" column="78" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="31" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/auth.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/auth.js" />
+      <jump line="8" column="27" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/web-router.js" />
+      <jump line="151" column="27" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/web-router.js" />
+      <jump line="59" column="38" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/ASAnalyser.js" />
+      <jump line="6" column="14" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/ASAnalyser.js" />
+      <jump line="191" column="13" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/yarn.lock" />
+      <jump line="79" column="3" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/yarn.lock" />
+      <jump line="20" column="1" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/results/results-table.jsx" />
+      <jump line="11" column="6" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/results/results-table.jsx" />
+      <jump line="91" column="73" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/results/results-table.jsx" />
+      <jump line="15" column="22" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/results/results-table.jsx" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/top-bar-popover/login-popover.jsx" />
+      <jump line="92" column="25" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/top-bar-popover/login-popover.jsx" />
+      <jump line="4" column="9" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/top-bar-popover/login-popover.jsx" />
+      <jump line="50" column="35" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/node_modules/react-s3-uploader/ReactS3Uploader.js" />
+      <jump line="90" column="88" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/node_modules/react-s3-uploader/ReactS3Uploader.js" />
+      <jump line="57" column="4" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/node_modules/react-s3-uploader/ReactS3Uploader.js" />
+      <jump line="11" column="24" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/app-uploader.jsx" />
+      <jump line="11" column="13" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/package.json" />
+      <jump line="169" column="10" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/analyses_routes.js" />
+      <jump line="48" column="21" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/analyses_routes.js" />
+      <jump line="55" column="96" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/analyses_routes.js" />
+      <jump line="99" column="25" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/analyses_routes.js" />
+      <jump line="159" column="21" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/routing/analyses_routes.js" />
+      <jump line="25" column="37" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/Auth.js" />
+      <jump line="157" column="109" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/routes/result2.jsx" />
+      <jump line="3" column="6" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/ASAnalyser.js" />
+      <jump line="115" column="23" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/services/ASAnalyser.js" />
+      <jump line="73" column="31" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/top-bar-popover/user-popover.jsx" />
+      <jump line="71" column="6" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/top-bar-popover/user-popover.jsx" />
+      <jump line="86" column="35" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/components/top-bar-popover/user-popover.jsx" />
+      <jump line="102" column="46" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/main.jsx" />
+      <jump line="27" column="7" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/app/webapp/private/scripts/main.jsx" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/yarn.lock" />
+      <jump line="347" column="4" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/yarn.lock" />
+      <jump line="888" column="4" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/yarn.lock" />
+      <jump line="1036" column="4" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/yarn.lock" />
+      <jump line="1795" column="0" filename="$USER_HOME$/Documents/appsectest/Asanalyzer-webfront/yarn.lock" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG5hbWU6ICdBbGxvd0JhY2t1cERldGVjdG9yJywgCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Check whether user identifiable data is being backed up to the device and that consent has been given to the user. Recital Notice: 78: Adminsitrative fine Notice: 83 (4) lit a</text>
+      </register>
+      <register name="/" type="4">
+        <text>debug</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgbmFtZTogJ0FsbG93QmFja3VwRGV0ZWN0b3InLAogICAgICBhZHZpc29yeTogZmFsc2UsCiAgICAgIGlzc3VlOiB0cnVlLAogICAgICBkZXNjcmlwdGlvbjogJ0FsbG93QmFja3VwIGhhcyBiZWVuIGVuYWJsZWQgaW4gdGhlIGFwcHMgTWFuaWZlc3QgZmlsZS4gQSBtYWxpY2lvdXMgYWN0b3IgY2FuIGFjcXVpcmUgc2Vuc2l0aXZlIGVtcGxveWVlIGFuZCBvcmdhbml6YXRpb24gaW5mb3JtYXRpb24gZnJvbSB0aGUgYmFja3VwLicsCiAgICAgIGRldmVsb3Blck5vdGljZTogJ0FsbG93QmFja3VwIHNob3VsZCBiZSBkaXNhYmxlZCAgW3NldCB0byDigJxmYWxzZeKAnV0uJywKICAgICAgZ2RwcjI1OiAnQ2hlY2sgd2hldGhlciB1c2VyIGlkZW50aWZpYWJsZSBkYXRhIGlzIGJlaW5nIGJhY2tlZCB1cCB0byB0aGUgZGV2aWNlIGFuZCB0aGF0IGNvbnNlbnQgaGFzIGJlZW4gZ2l2ZW4gdG8gdGhlIHVzZXIuIFJlY2l0YWwgTm90aWNlOiA3ODogQWRtaW5zaXRyYXRpdmUgZmluZSBOb3RpY2U6IDgzICg0KSBsaXQgYScsCiAgICAgIGdkcHIzMjogJ0NoZWNrIHRoZSBsZXZlbCBvZiBhcHAgc2VjdXJpdHkgbWVhc3VyZXMgYXBwcm9wcmlhdGUgdG8gdGhpcyBpc3N1ZSBoYXZlIGJlZW4gY29uc2lkZXJlZC4gUmVjaXRhbCBOb3RpY2U6IDgzLCA3NCwgNzUsIDc2LCA3NzogQWRtaW5pc3RyYXRpdmUgZmluZSBOb3RpY2U6IEFydGljbGUgODMgKDQpIGxpdCBhJwogICAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG5hbWU6ICdBbGxvd0JhY2t1cERldGVjdG9yJywgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAudGhlbgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKHVzZXIgPT4gewogICAgICAgICAgICByZXEuYXV0aCA9IHsgdXNlciB9OwogICAgICAgICAgICBuZXh0KCk7CiAgICAgICAgICB9KQogICAgICAgICAgLmNhdGNoKHVzZXJOb3RGb3VuZEVycm9yID0+IHsKICAgICAgICAgICAgbG9nZ2VyLndhcm4oYEEgcmVxdWVzdCBtYWRlIGZyb20gJHtyZXEuaXB9IGNvbnRhaW5zIGEgdmFsaWQgand0IHRva2VuIHlldCB0aGUgdXNlciBjYW5ub3QgYmUgZm91bmQgaW4gdGhlIGRhdGFiYXNlYCk7CiAgICAgICAgICAgIHJldHVybiByZXMuc3RhdHVzKDQxMikuc2VuZCh7IGVycm9yOiAnVGhlIGF1dGhlbnRpY2F0ZWQgdXNlciBjb3VsZCBub3QgYmUgZm91bmQnIH0pOwogICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybihgUmVxdWVzdCBmcm9tICR7cmVxLmlwfSB3aXRoIG1vZGlmaWVkIGp3dCB0b2tlbi5gKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXEuYXV0aCA9IHsKICAgICAgICAgIHVzZXJuYW1lOiBkZWNvZGVkLnVzZXJuYW1lCiAgICAgICAgfTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0KCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHVzZXJuYW1lOiB1c2VyLnVzZXJuYW1lLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCBqd3QgPSByZXF1aXJlKCdqc29ud2VidG9rZW4nKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICByZXR1cm47Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>debug</last-search>
+      <last-offset />
+      <last-pattern>debug</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>jwt_verify</entry>
+        <entry>requestQueue</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry>styles</entry>
+        <entry>connect</entry>
+        <entry>this.style.display</entry>
+        <entry>uploadFile</entry>
+        <entry>svg</entry>
+        <entry>req.jwt</entry>
+        <entry>jwt</entry>
+        <entry>reported</entry>
+        <entry>sendAMQP</entry>
+        <entry>mapStateToProps</entry>
+        <entry>IssueCard</entry>
+        <entry>debug</entry>
+      </history-search>
+      <history-cmd>
+        <entry>qw</entry>
+        <entry>ew</entry>
+        <entry encoding="base64">JzwsJz5x</entry>
+        <entry>W</entry>
+        <entry>q</entry>
+        <entry>we</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

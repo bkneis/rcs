@@ -1,0 +1,40 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.3840.2160" x="1708" y="550" />
+    <location key="new project wizard.0.0.3840.2160" x="1553" y="371" />
+    <location key="WELCOME_SCREEN.0.0.3840.2160" x="1924" y="246" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.3840.2160" x="1633" y="874" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.3840.2160@144dpi" x="1498" y="801" />
+    <location key="#Browse_Repositories.0.0.3840.2160@144dpi" x="1502" y="695" />
+    <location key="#Plugins.0.0.3840.2160@144dpi" x="1496" y="704" />
+    <location key="FileChooserDialogImpl.0.0.3840.2160@144dpi" x="1602" y="699" />
+    <location key="find.popup.0.0.3840.2160@144dpi" x="1450" y="111" />
+    <location key="SettingsEditor.0.0.3840.2160@144dpi" x="1138" y="548" />
+    <location key="#ESLint.0.0.3840.2160@144dpi" x="1525" y="740" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.3840.2160@144dpi" x="1510" y="823" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@144dpi" x="538" y="270" />
+    <location key="SettingsEditor.0.0.1920.1080@144dpi" x="178" y="5" />
+    <location key="#ESLint.0.0.1920.1080@144dpi" x="565" y="203" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="671" y="343" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="794" y="141" />
+    <location key="find.popup.0.0.1920.1080" x="474" y="143" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="544" y="180" />
+    <location key="#Plugins.0.0.1920.1080" x="556" y="183" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="683" y="322" />
+    <location key="#Inspections.0.0.1920.1080" x="0" y="0" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="694" y="272" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="954" y="271" />
+    <location key="#ESLint.0.0.1920.1080" x="690" y="295" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080" x="686" y="366" />
+    <location key="SettingsEditor.0.0.1920.1080" x="437" y="181" />
+    <size key="#Plugins.0.0.3840.2160@144dpi" width="990" height="716" />
+    <size key="find.popup.0.0.3840.2160@144dpi" width="1223" height="867" />
+    <size key="#ESLint.0.0.3840.2160@144dpi" width="811" height="684" />
+    <size key="#ESLint.0.0.1920.1080@144dpi" width="811" height="684" />
+    <size key="find.popup.0.0.1920.1080" width="852" height="585" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" width="756" height="767" />
+    <size key="#Inspections.0.0.1920.1080" width="1920" height="1050" />
+    <size key="javadoc.popup.0.0.1920.1080" width="602" height="425" />
+    <size key="#ESLint.0.0.1920.1080" width="554" height="487" />
+  </component>
+</application>

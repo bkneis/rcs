@@ -1,0 +1,24 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.171" value="15" />
+    <property name="installed.kotlin.plugin.version" value="1.1.2-release-IJ2017.1-1" />
+    <property name="android-component-compatibility-check" value="1502344838589" />
+    <property name="project.wizard.group" value="Scala" />
+    <property name="project.wizard.template" value="SBT" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="38" />
+    <property name="PLUGIN_FILTER" value="sass&#10;apidocs&#10;apidocsjs&#10;vim&#10;eslint" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEFAULT" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Material Theme - Default" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.ideavimrc&#10;/home/arthur/rabbitmq/reciever.js&#10;/home/arthur/Documents/appsectest" />
+    <property name="file.gist.reindex.count" value="18813" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ideavim.statistics.timestamp" value="1502172375513" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="show.indent.detected.notification" value="false" />
+    <property name="idea.background.frame" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+  </component>
+</application>

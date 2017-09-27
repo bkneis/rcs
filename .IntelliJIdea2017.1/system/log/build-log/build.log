@@ -1,0 +1,274 @@
+2017-07-16 11:23:47,166 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-16 11:23:47,367 [    201]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 177 ms
+2017-07-16 11:23:47,428 [    262]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-16 11:23:47,729 [    563]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 301 ms
+2017-07-16 11:23:47,729 [    563]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-16 11:23:47,796 [    630]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-16 11:23:47,909 [    743]   INFO - .incremental.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2017-07-16 11:23:48,003 [    837]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin incremental compilation enabled: true
+2017-07-16 11:23:48,003 [    837]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin experimental incremental compilation enabled: true
+2017-07-16 11:23:48,027 [    861]   INFO - kotlin.jps.build.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2017-07-16 11:23:48,027 [    861]   INFO - kotlin.jps.build.KotlinBuilder - Label in local history: build started a7bed4ee
+2017-07-16 11:23:48,051 [    885]   INFO - r.api.ClassFilesIndicesBuilder - class files data index disabled
+2017-07-16 11:23:48,102 [    936]   INFO - .incremental.IncProjectBuilder - Cleaned output directories in 2 ms
+2017-07-16 11:23:48,224 [   1058]   INFO - rains.jps.cmdline.BuildSession - Build duration: 'Scala IDEA builder' builder took 60 ms, 0 sources processed
+2017-07-16 11:23:48,436 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-16 11:23:48,640 [    204]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 185 ms
+2017-07-16 11:23:48,690 [    254]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-16 11:23:48,897 [    461]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 207 ms
+2017-07-16 11:23:48,897 [    461]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-16 11:23:48,953 [    517]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-16 11:23:49,051 [    615]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 616 ms
+2017-07-16 13:43:27,551 [8379115]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-07-17 06:55:39,026 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-17 06:55:39,343 [    317]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 282 ms
+2017-07-17 06:55:39,452 [    426]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-17 06:55:39,804 [    778]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 352 ms
+2017-07-17 06:55:39,804 [    778]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-17 06:55:39,948 [    922]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-17 06:55:40,529 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-17 06:55:40,830 [    301]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 268 ms
+2017-07-17 06:55:40,909 [    380]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-17 06:55:41,388 [    859]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 479 ms
+2017-07-17 06:55:41,388 [    859]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-17 06:55:41,530 [   1001]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-17 06:55:41,674 [   1145]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1149 ms
+2017-07-17 06:55:42,405 [   1876]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-07-17 19:08:37,275 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-17 19:08:37,596 [    321]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 277 ms
+2017-07-17 19:08:37,724 [    449]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-17 19:08:38,113 [    838]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 389 ms
+2017-07-17 19:08:38,114 [    839]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-17 19:08:38,220 [    945]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-17 19:08:38,866 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-17 19:08:39,075 [    209]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 170 ms
+2017-07-17 19:08:39,141 [    275]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-17 19:08:39,572 [    706]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 431 ms
+2017-07-17 19:08:39,572 [    706]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-17 19:08:39,678 [    812]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-17 19:08:39,841 [    975]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 976 ms
+2017-07-17 19:08:41,716 [   2850]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-07-18 06:54:34,453 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-18 06:54:34,730 [    277]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 242 ms
+2017-07-18 06:54:34,845 [    392]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-18 06:54:35,214 [    761]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 369 ms
+2017-07-18 06:54:35,214 [    761]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-18 06:54:35,372 [    919]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-18 06:54:35,976 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-18 06:54:36,228 [    252]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 222 ms
+2017-07-18 06:54:36,318 [    342]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-18 06:54:36,715 [    739]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 397 ms
+2017-07-18 06:54:36,715 [    739]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-18 06:54:36,827 [    851]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-18 06:54:36,975 [    999]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1000 ms
+2017-07-18 06:54:38,427 [   2451]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-07-19 06:41:47,949 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-19 06:41:48,272 [    323]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 264 ms
+2017-07-19 06:41:48,363 [    414]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-19 06:41:48,776 [    827]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 413 ms
+2017-07-19 06:41:48,776 [    827]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-19 06:41:48,943 [    994]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-19 06:41:49,491 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-19 06:41:49,801 [    310]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 268 ms
+2017-07-19 06:41:49,882 [    391]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-19 06:41:50,256 [    765]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 374 ms
+2017-07-19 06:41:50,256 [    765]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-19 06:41:50,367 [    876]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-19 06:41:50,542 [   1051]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1052 ms
+2017-07-19 06:41:55,299 [   5808]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-07-20 06:26:50,812 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-20 06:26:51,172 [    360]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 315 ms
+2017-07-20 06:26:51,266 [    454]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-20 06:26:51,645 [    833]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 379 ms
+2017-07-20 06:26:51,645 [    833]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-20 06:26:51,750 [    938]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-20 06:26:52,286 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-20 06:26:52,620 [    334]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 264 ms
+2017-07-20 06:26:52,708 [    422]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-20 06:26:53,124 [    838]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 416 ms
+2017-07-20 06:26:53,124 [    838]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-20 06:26:53,221 [    935]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-20 06:26:53,371 [   1085]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1087 ms
+2017-07-20 06:26:57,569 [   5283]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-07-25 08:10:45,235 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-25 08:10:45,555 [    320]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 286 ms
+2017-07-25 08:10:45,731 [    496]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-25 08:10:46,152 [    917]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 421 ms
+2017-07-25 08:10:46,152 [    917]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-25 08:10:46,281 [   1046]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-25 08:10:46,801 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-25 08:10:47,055 [    254]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 224 ms
+2017-07-25 08:10:47,136 [    335]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-25 08:10:47,596 [    795]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 460 ms
+2017-07-25 08:10:47,597 [    796]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-25 08:10:47,735 [    934]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-25 08:10:47,920 [   1119]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1120 ms
+2017-07-25 08:10:51,349 [   4548]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-07-25 17:56:38,920 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-25 17:56:39,339 [    419]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 332 ms
+2017-07-25 17:56:39,443 [    523]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-25 17:56:39,900 [    980]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 457 ms
+2017-07-25 17:56:39,900 [    980]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-25 17:56:40,027 [   1107]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-25 17:56:40,624 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-07-25 17:56:41,146 [    522]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 477 ms
+2017-07-25 17:56:41,289 [    665]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-07-25 17:56:41,940 [   1316]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 651 ms
+2017-07-25 17:56:41,940 [   1316]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-07-25 17:56:42,174 [   1550]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-07-25 17:56:42,543 [   1919]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1920 ms
+2017-07-25 17:56:50,743 [  10119]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-01 07:13:06,232 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-01 07:13:06,558 [    326]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 262 ms
+2017-08-01 07:13:06,670 [    438]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-01 07:13:07,125 [    893]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 455 ms
+2017-08-01 07:13:07,126 [    894]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-01 07:13:07,287 [   1055]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-01 07:13:07,855 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-01 07:13:08,093 [    238]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 193 ms
+2017-08-01 07:13:08,226 [    371]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-01 07:13:08,694 [    839]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 468 ms
+2017-08-01 07:13:08,695 [    840]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-01 07:13:08,834 [    979]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-01 07:13:09,014 [   1159]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1160 ms
+2017-08-01 07:13:09,064 [   1209]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-02 07:07:10,738 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-02 07:07:11,078 [    340]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 306 ms
+2017-08-02 07:07:11,194 [    456]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-02 07:07:11,570 [    832]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 376 ms
+2017-08-02 07:07:11,571 [    833]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-02 07:07:11,684 [    946]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-02 07:07:12,290 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-02 07:07:12,648 [    359]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 313 ms
+2017-08-02 07:07:12,724 [    435]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-02 07:07:13,251 [    962]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 527 ms
+2017-08-02 07:07:13,257 [    968]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-02 07:07:13,376 [   1087]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-02 07:07:13,602 [   1313]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1314 ms
+2017-08-02 07:07:20,521 [   8232]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-03 06:55:21,995 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-03 06:55:22,309 [    314]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 284 ms
+2017-08-03 06:55:22,415 [    420]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-03 06:55:22,816 [    821]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 401 ms
+2017-08-03 06:55:22,816 [    821]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-03 06:55:22,934 [    939]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-03 06:55:23,566 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-03 06:55:23,881 [    315]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 275 ms
+2017-08-03 06:55:23,949 [    383]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-03 06:55:24,367 [    801]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 418 ms
+2017-08-03 06:55:24,368 [    802]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-03 06:55:24,469 [    903]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-03 06:55:24,661 [   1095]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1096 ms
+2017-08-03 06:55:25,017 [   1451]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-04 07:07:54,826 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-04 07:07:55,127 [    301]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 267 ms
+2017-08-04 07:07:55,225 [    399]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-04 07:07:55,570 [    744]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 345 ms
+2017-08-04 07:07:55,570 [    744]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-04 07:07:55,693 [    867]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-04 07:07:56,263 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-04 07:07:56,611 [    348]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 273 ms
+2017-08-04 07:07:56,699 [    436]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-04 07:07:57,112 [    849]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 413 ms
+2017-08-04 07:07:57,113 [    850]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-04 07:07:57,216 [    953]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-04 07:07:57,381 [   1118]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1119 ms
+2017-08-04 07:08:00,274 [   4011]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-05 15:36:58,693 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-05 15:36:58,993 [    300]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 268 ms
+2017-08-05 15:36:59,139 [    446]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-05 15:36:59,566 [    873]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 427 ms
+2017-08-05 15:36:59,566 [    873]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-05 15:36:59,719 [   1026]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-05 15:37:00,301 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-05 15:37:00,864 [    563]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 525 ms
+2017-08-05 15:37:01,009 [    708]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-05 15:37:01,679 [   1378]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 670 ms
+2017-08-05 15:37:01,680 [   1379]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-05 15:37:01,871 [   1570]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-05 15:37:02,131 [   1830]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1846 ms
+2017-08-05 15:37:04,512 [   4211]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-05 15:39:07,412 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-05 15:39:07,964 [    552]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 489 ms
+2017-08-05 15:39:08,118 [    706]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-05 15:39:08,703 [   1291]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 585 ms
+2017-08-05 15:39:08,703 [   1291]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-05 15:39:08,861 [   1449]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-05 15:39:09,623 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-05 15:39:10,035 [    412]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 318 ms
+2017-08-05 15:39:10,127 [    504]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-05 15:39:10,672 [   1049]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 545 ms
+2017-08-05 15:39:10,673 [   1050]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-05 15:39:10,780 [   1157]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-05 15:39:10,945 [   1322]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1336 ms
+2017-08-05 15:39:10,983 [   1360]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-05 15:39:52,893 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-05 15:39:53,287 [    394]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 318 ms
+2017-08-05 15:39:53,412 [    519]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-05 15:39:53,802 [    909]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 390 ms
+2017-08-05 15:39:53,803 [    910]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-05 15:39:53,917 [   1024]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-05 15:39:54,521 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-05 15:39:54,971 [    450]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 350 ms
+2017-08-05 15:39:55,141 [    620]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-05 15:39:55,512 [    991]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 370 ms
+2017-08-05 15:39:55,512 [    991]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-05 15:39:55,629 [   1108]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-05 15:39:55,814 [   1293]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1294 ms
+2017-08-05 15:39:58,365 [   3844]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-05 22:17:23,105 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-05 22:17:23,417 [    312]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 272 ms
+2017-08-05 22:17:23,520 [    415]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-05 22:17:23,966 [    861]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 446 ms
+2017-08-05 22:17:23,966 [    861]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-05 22:17:24,180 [   1075]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-05 22:17:25,252 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-05 22:17:25,917 [    665]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 566 ms
+2017-08-05 22:17:26,143 [    891]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-05 22:17:26,748 [   1496]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 605 ms
+2017-08-05 22:17:26,748 [   1496]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-05 22:17:26,930 [   1678]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-05 22:17:27,169 [   1917]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1918 ms
+2017-08-05 22:17:27,816 [   2564]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-08 07:04:29,751 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-08 07:04:30,050 [    299]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 253 ms
+2017-08-08 07:04:30,155 [    404]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-08 07:04:30,587 [    836]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 432 ms
+2017-08-08 07:04:30,587 [    836]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-08 07:04:30,738 [    987]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-08 07:04:31,405 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-08 07:04:31,818 [    413]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 355 ms
+2017-08-08 07:04:31,958 [    553]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-08 07:04:32,367 [    962]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 409 ms
+2017-08-08 07:04:32,368 [    963]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-08 07:04:32,502 [   1097]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-08 07:04:32,674 [   1269]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1272 ms
+2017-08-08 07:04:34,251 [   2846]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-08 07:10:41,462 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-08 07:10:41,779 [    317]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 264 ms
+2017-08-08 07:10:41,892 [    430]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-08 07:10:42,386 [    924]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 494 ms
+2017-08-08 07:10:42,386 [    924]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-08 07:10:42,493 [   1031]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-08 07:10:43,227 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-08 07:10:43,666 [    439]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 334 ms
+2017-08-08 07:10:43,794 [    567]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-08 07:10:44,395 [   1168]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 601 ms
+2017-08-08 07:10:44,396 [   1169]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-08 07:10:44,607 [   1380]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-08 07:10:44,786 [   1559]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1579 ms
+2017-08-08 07:10:47,902 [   4675]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2017-08-10 07:00:42,651 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-10 07:00:42,909 [    258]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 225 ms
+2017-08-10 07:00:43,014 [    363]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-10 07:00:43,404 [    753]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 390 ms
+2017-08-10 07:00:43,404 [    753]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-10 07:00:43,547 [    896]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-10 07:00:44,100 [      0]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: /home/arthur/Downloads/idea-IU-171.4694.23/lib/jps-launcher.jar:/home/arthur/Downloads/idea-IU-171.4694.23/jre64/lib/tools.jar:/home/arthur/Downloads/idea-IU-171.4694.23/lib/optimizedFileManager.jar
+2017-08-10 07:00:44,474 [    374]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 328 ms
+2017-08-10 07:00:44,561 [    461]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = /home/arthur/Documents/appsectest, global options path = /home/arthur/.IntelliJIdea2017.1/config/options
+2017-08-10 07:00:44,999 [    899]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 438 ms
+2017-08-10 07:00:44,999 [    899]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2017-08-10 07:00:45,122 [   1022]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=602
+2017-08-10 07:00:45,360 [   1260]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 1261 ms
+2017-08-10 07:00:47,075 [   2975]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
